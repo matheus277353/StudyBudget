@@ -3,9 +3,9 @@
 Para enviar o projeto na plataforma, você precisa transformar essas informações em um PDF limpo. Copie os dados abaixo, cole no **Microsoft Word / Google Docs**, preencha os colchetes com os seus dados reais e salve como arquivo `PDF`.
 
 ---
-**NOME COMPLETO DO ALUNO:** Matheus [SEU SOBRENOME AQUI]
+**NOME COMPLETO DO ALUNO:** Matheus oliveira da silva 
 
-**NOME DA DISCIPLINA:** [NOME COMPLETO DA DISCIPLINA]
+**NOME DA DISCIPLINA:** bootcamp 2
 
 **NOME DO PROJETO:** StudyBudget
 
