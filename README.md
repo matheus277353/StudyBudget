@@ -67,4 +67,4 @@ ruff check src/ tests/
 
 - **Autor:** Matheus
 - **Versão Atual:** 1.0.0
-- **Link do Repositório (Público):** [https://github.com/SEU_USUARIO/StudyBudget](https://github.com/SEU_USUARIO/StudyBudget)
+- **Link do Repositório (Público):** [https://github.com/matheus277353/StudyBudget](https://github.com/matheus277353/StudyBudget)
